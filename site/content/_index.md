@@ -1,6 +1,6 @@
 ---
 title: My Office deskspace
-subtitle: A perfect office space for your work
+subtitle: A perfect office space just for you...
 image: img/banner.jpg
 blurb:
   heading: Why co-working space?
